@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Legenda.ProjSpace.Main.WebParts.WebPartVolumes.WebPartVolumes, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Legenda.ProjSpace.Main - Bеб-часть объема работ</property>
+        <property name="Description" type="string">Кастомная веб-часть списания и утверждения объема работ</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
